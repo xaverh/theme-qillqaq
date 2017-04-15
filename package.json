@@ -4,7 +4,7 @@
     "description": "A dark colorscheme for Visual Studio Code",
     "version": "0.0.1",
     "publisher": "xaver",
-    "license": "MIT",
+    "license": "BSD-3-Clause",
     "engines": {
         "vscode": "^1.10.0"
     },
