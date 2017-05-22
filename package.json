@@ -27,5 +27,9 @@
     "scripts": {
         "prepublish": "node create.js"
     },
-    "icon": "icon.png"
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xaverh/theme-qillqaq"
+    }
 }
