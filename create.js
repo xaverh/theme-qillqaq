@@ -25,17 +25,6 @@ const grey60 = '#969696'
 // const scarletGum = '#442059'
 // const deepSkyBlue = '#20BBFC'
 
-/* TODO:
-    "editorInactiveSelection": "#3A3D41",
-    "editorIndentGuides": "#404040",
-    "editorSelectionHighlight": "#add6ff26"
-    "editorCursor": deepSkyBlue,
-    "statusBarBackground": blueLagoon,
-    "statusBarDebuggingBackground": goldenBrown,
-    "statusBarNoFolderBackground": scarletGum,
-    "statusBarForeground": grey90
-*/
-
 const options = {
   encoding: 'utf8',
   files: [

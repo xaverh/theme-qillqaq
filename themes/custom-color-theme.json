@@ -44,7 +44,24 @@
 		"statusBarItem.hoverBackground": "#FFFFFF1a",
 		"titleBar.activeBackground": "#181818",
 		"pickerGroup.border": "#FFFFFF1a",
-		"debugToolBar.background": "#2a2a2a"
+		"debugToolBar.background": "#2a2a2a",
+		"editorCursor.foreground": "#20BBFC",
+    "terminal.ansiBlack": "#1E1E1E", /* Grey 10%, R=30, G=30, B=30 */
+    "terminal.ansiRed": "#E32791", /* Deep Cerise, R=227, G=39, B=145 */
+    "terminal.ansiGreen": "#30C798", /* Shamrock, R=48, G=199, B=152 */
+    "terminal.ansiYellow": "#E3C472", /* Chenin, R=227, G=196, B=114 */
+    "terminal.ansiBlue": "#6796E6", /* Cornflower Blue, R=103, G=150, B=230 */
+    "terminal.ansiMagenta": "#E59FDF", /* Plum, R=229, G=159, B=223 */
+    "terminal.ansiCyan": "#81D8D0", /* Riptide, R=129, G=216, B=208 */
+    "terminal.ansiWhite": "#969696", /* Grey 60%, R=150, G=150, B=150 */
+    "terminal.ansiBrightBlack": "#515151", /* Grey 30%, R=81, G=81, B=81 */
+    "terminal.ansiBrightRed": "#E466AD", /* Hot Pink, R=228, G=102, B=173 */
+    "terminal.ansiBrightGreen": "#6CD1B2", /* Medium Aquamarine, R=108, G=209, B=178 */
+    "terminal.ansiBrightYellow": "#E4CF98", /* Double Colonial White, R=228, G=207, B=152 */
+    "terminal.ansiBrightBlue": "#91B0E6", /* Jordy Blue, R=145, G=181, B=230 */
+    "terminal.ansiBrightMagenta": "#E5B6E1", /* French Lilac, R=229, G=182, B=225 */
+    "terminal.ansiBrightCyan": "#A2DCD7", /* Sinbad, R=162, G=220, B=215 */
+		"terminal.ansiBrightWhite": "#E5E6E6" /* Grey 90%, R=229, G=230, B=230 */
 	},
 	"tokenColors": [
 		{
