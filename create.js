@@ -2,12 +2,6 @@
 
 const replace = require('replace-in-file')
 
-/*
-# cp /opt/visual-studio-code/resources/app/extensions/theme-defaults/themes/dark_defaults.json qillqaq_defaults.json
-# cp /opt/visual-studio-code/resources/app/extensions/theme-defaults/themes/dark_plus.json qillqaq.json
-# cp /opt/visual-studio-code/resources/app/extensions/theme-defaults/themes/dark_vs.json qillqaq_vs.json
-*/
-
 const themeName = 'Qillqaq'
 const defaultsName = 'Qillqaq Default Colors'
 const baseName = 'Qillqaq Base'
@@ -48,8 +42,8 @@ const options = {
     'themes/*.json'
   ],
 
-  from: [/Dark\+ \(default dark\)/g, /Dark Default Colors/g, /Dark \(Visual Studio\)/g, /#c586c0/gi, /#569cd6/gi, /#4ec9b0/gi, /#ce9178/gi, /#608b4e/gi, /#d16969/gi, /#dcdcaa/gi, /#f44747/gi, /#000080/g, /#9cdcfe/gi, /#d4d4d4/gi, /#e1e1e1/gi, /#b5cea8/gi, /#646695/g, /#d7ba7d/gi, /#808080/g],
-  to: [themeName, defaultsName, baseName, deepCerise, cornflowerBlue, riptide, shamrock, grey30, mediumAquamarine, chenin, alizarin, blueLagoon, plum, grey90, grey10, sinbad, frenchLilac, doubleColonialWhite, grey60]
+  from: [/#c586c0/gi, /#569cd6/gi, /#4ec9b0/gi, /#ce9178/gi, /#608b4e/gi, /#d16969/gi, /#dcdcaa/gi, /#f44747/gi, /#000080/g, /#9cdcfe/gi, /#d4d4d4/gi, /#e1e1e1/gi, /#b5cea8/gi, /#646695/g, /#d7ba7d/gi, /#808080/g],
+  to: [deepCerise, cornflowerBlue, riptide, shamrock, grey30, mediumAquamarine, chenin, alizarin, blueLagoon, plum, grey90, grey10, sinbad, frenchLilac, doubleColonialWhite, grey60]
 }
 
 replace(options)
