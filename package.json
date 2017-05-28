@@ -31,5 +31,9 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/xaverh/theme-qillqaq"
+    },
+    "galleryBanner": {
+    "color": "#6796E6",
+    "theme": "dark"
     }
 }
