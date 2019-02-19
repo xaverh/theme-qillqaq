@@ -31,7 +31,7 @@ const options = {
     'themes/*.json'
   ],
 
-  from: [/#c586c0/gi, /#569cd6/gi, /#4ec9b0/gi, /#ce9178/gi, /#608b4e/gi, /#d16969/gi, /#dcdcaa/gi, /#f44747/gi, /#000080/g, /#9cdcfe/gi, /#d4d4d4/gi, /#e1e1e1/gi, /#b5cea8/gi, /#646695/g, /#d7ba7d/gi, /#808080/g],
+  from: [/#c586c0/gi, /#569cd6/gi, /#4ec9b0/gi, /#ce9178/gi, /#6a9955/gi, /#d16969/gi, /#dcdcaa/gi, /#f44747/gi, /#000080/g, /#9cdcfe/gi, /#d4d4d4/gi, /#e1e1e1/gi, /#b5cea8/gi, /#646695/g, /#d7ba7d/gi, /#808080/g],
   to: [deepCerise, cornflowerBlue, riptide, shamrock, grey30, mediumAquamarine, chenin, alizarin, blueLagoon, plum, grey90, grey10, sinbad, frenchLilac, doubleColonialWhite, grey60]
 }
 
