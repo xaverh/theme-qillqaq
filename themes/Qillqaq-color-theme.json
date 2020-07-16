@@ -6,7 +6,26 @@
     "editor.background": "#263238",
     "editor.foreground": "#eeffff",
     "activityBarBadge.background": "#007acc",
-    "sideBarTitle.foreground": "#bbbbbb"
+    "sideBarTitle.foreground": "#bbbbbb",
+    "terminal.ansiBlack": "#171717",
+    "terminal.ansiRed": "#e32791",
+    "terminal.ansiGreen": "#30c798",
+    "terminal.ansiYellow": "#e3c472",
+    "terminal.ansiBlue": "#6796e6",
+    "terminal.ansiMagenta": "#e59fdf",
+    "terminal.ansiCyan": "#81d8d0",
+    "terminal.ansiWhite": "#999",
+    "terminal.ansiBrightBlack": "#515151",
+    "terminal.ansiBrightRed": "#e466ad",
+    "terminal.ansiBrightGreen": "#6cd1b2",
+    "terminal.ansiBrightYellow": "#e4cf98",
+    "terminal.ansiBrightBlue": "#91b0e6",
+    "terminal.ansiBrightMagenta": "#e5b6e1",
+    "terminal.ansiBrightCyan": "#a2dcd7",
+    "terminal.ansiBrightWhite": "#e5e6e6",
+    "terminal.background": "#171717",
+    "terminal.foreground": "#e5e6e6",
+    "terminal.selectionBackground": "#0f3a4ba0"
   },
   "tokenColors": [
     {
