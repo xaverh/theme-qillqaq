@@ -2,9 +2,9 @@
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
-		"activityBarBadge.background": "#0f3a4b",
 
-		"editor.selectionHighlightBackground": "#0f3a4b",
+
+
 		"statusBar.background": "#0f3a4b",
 		"statusBar.foreground": "#f9f8f4",
 		"statusBar.debuggingBackground": "#522900",
@@ -17,8 +17,6 @@
 		"editorGroupHeader.tabsBackground": "#3333",
 		"editorGroup.dropBackground": "#0f3a4b80",
 
-		"terminalCursor.foreground": "#ff7315",
-		"terminalCursor.background": "#171717",
-		"editorCursor.foreground": "#ff7315"
+
 	}
 }
