@@ -3,8 +3,8 @@
   "name": "Qillqaq",
   "type": "dark",
   "colors": {
-    "editor.background": "#263238",
-    "editor.foreground": "#eeffff",
+		"editor.background": "#171717",
+		"editor.foreground": "#e5e6e6",
     "activityBarBadge.background": "#007acc",
     "sideBarTitle.foreground": "#bbbbbb",
     "terminal.ansiBlack": "#171717",
