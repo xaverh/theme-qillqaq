@@ -1,4 +1,3 @@
 .vscode/**
-create.js
+.vscode-test/**
 .gitignore
-yarn.lock
